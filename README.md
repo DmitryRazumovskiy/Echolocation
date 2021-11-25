@@ -46,12 +46,6 @@ Input system 1.1.1 и выше
 ![изображение](https://user-images.githubusercontent.com/43909412/141475272-13b0af8b-7b33-4d5a-82e9-40c28805f47a.png)
 
 
-Также отройте меню Tag и добавьте туда два тега: Audio Source Object и Audio Source. Названия должны совпадать.
-
-
-![изображение](https://user-images.githubusercontent.com/43909412/141475289-1848d5f4-60f9-4706-80e9-482f25251cde.png)
-
-
 В скрипте RayCastController на объекте player добавьте настройки интерфейса.  
 
 
@@ -62,13 +56,6 @@ Input system 1.1.1 и выше
 
 
 ![изображение](https://user-images.githubusercontent.com/43909412/141475313-af19d3b7-03d0-4f9b-ad33-21bc76e36ba0.png)
-
-
-В объекте Game Manager настройте интерфейс, добавьте исключения в Audio Manager (их должно быть 2) , добавьте коневой объект в Object Manager. 
-
-
-![изображение](https://user-images.githubusercontent.com/43909412/141475334-df16f74f-fed0-4358-93ee-0f913448addc.png)
-
 
 Добавьте ссылку на все контроллеры в Input Manager.
  
